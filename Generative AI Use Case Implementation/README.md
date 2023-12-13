@@ -12,7 +12,7 @@ Set up and Generative Configuration:
 
 5 - Generative Configuration Parameters for Inference
 
-Fine-Tune a Generative AI Model
+Fine-Tune a Generative AI Model:
 
 1 - Set up Kernel, Load Required Dependencies, Dataset and LLM
 
@@ -20,7 +20,7 @@ Fine-Tune a Generative AI Model
 
 3 - Perform Parameter Efficient Fine-Tuning (PEFT/LoRA Model)
 
-Fine-tune with Reinforcement Learning (PPO) and PEFT to Generate Less-Toxic Summaries
+Fine-tune with Reinforcement Learning (PPO) and PEFT to Generate Less-Toxic Summaries:
 
 1 - Set up Kernel and Required Dependencies
 
