@@ -2,9 +2,13 @@ Generative AI Use Case:
 
 Set up and Generative Configuration:
 1 - Set up Kernel and Required Dependencies
+
 2 - Prompt Engineering
+
 3 - Instruction Prompt
+
 4 - One Shot and Few Shot Inference
+
 5 - Generative Configuration Parameters for Inference
 
 Fine-Tune a Generative AI Model
