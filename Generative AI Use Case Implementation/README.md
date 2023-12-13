@@ -1,8 +1,8 @@
 Generative AI Use Case:
 
 Set up and Generative Configuration:
-1 - Set up Kernel and Required Dependencies
 
+1 - Set up Kernel and Required Dependencies
 2 - Prompt Engineering
 
 3 - Instruction Prompt
